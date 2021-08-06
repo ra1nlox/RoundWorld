@@ -1,0 +1,4 @@
+name: RoundWorld
+main: md.rainlox.roundWorldPlugin.Main
+version: 1.0
+api-version: 1.13
